@@ -66,11 +66,6 @@
 ### ✨ Quote of the Day
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Programs must be written for people to read, and only incidentally for machines to execute.” — Harold Abelson</i>
+• <i>💡 “The best way to predict the future is to create it — with code, data, and imagination.”</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
-
----
-
-### 😂 Random Dev Joke
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="11000" />
