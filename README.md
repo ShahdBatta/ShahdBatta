@@ -35,6 +35,33 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahdbatta&theme=radical)](https://git.io/streak-stats)
 
 ---
+### 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/shahdbatta/portfolio">
+    <img src="https://img.shields.io/badge/-🌐%20Portfolio%20Website-0A66C2?style=for-the-badge" />
+  </a>
+  <br>
+  <i>My personal portfolio built with HTML, CSS, and JS</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shahdbatta/javafx-calculator">
+    <img src="https://img.shields.io/badge/-🧮%20JavaFX%20Calculator-FF6F00?style=for-the-badge" />
+  </a>
+  <br>
+  <i>A desktop calculator with multi-operator support</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shahdbatta/data-analysis">
+    <img src="https://img.shields.io/badge/-📊%20Data%20Analysis%20Project-28A745?style=for-the-badge" />
+  </a>
+  <br>
+  <i>Exploring datasets using Python & Pandas</i>
+</p>
+
+---
 
 ### ✨ Quote of the Day
 <a href="https://github.com/marketplace/actions/quote-readme">
