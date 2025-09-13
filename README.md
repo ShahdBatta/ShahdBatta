@@ -2,7 +2,10 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/shahd-batta-324a7b34a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>&nbsp;
-<a href="mailto:shahdbatta2005@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="30" width="30" /></a>&nbsp;
+<a href="mailto:shahdbatta2005@gmail.com" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" 
+       alt="email" height="30" width="30"/>
+</a>
 <a href="https://github.com/shahdbatta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="30" /></a>
 </p>
 
@@ -12,14 +15,14 @@
 - 🎓 I'm **Shahd Batta**, a Computer Science & Data Science student at **Palestine Technical University – Kadoorie (PTUK)**  
 - 💻 Passionate about **Web Development, Data Science, and Software Engineering**  
 - 🌱 Currently learning **JavaFX, JS, and Data Analysis**  
-- 👯 Open to collaborating on **web apps, data-driven projects, and open-source contributions**  
+-  Open to collaborating on **web apps, data-driven projects, and open-source contributions**  
 - ⚡ Fun fact: I enjoy blending creativity with problem-solving to build impactful projects  
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/html5/html5-icon.svg" alt="html5" width="55" height="55"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="55" height="55"/> 
