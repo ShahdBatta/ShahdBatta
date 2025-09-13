@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/shahdbatta/javafx-calculator">
+  <a href="https://github.com/ShahdBatta/Calco">
     <img src="https://img.shields.io/badge/-🧮%20JavaFX%20Calculator-FF6F00?style=for-the-badge" />
   </a>
   <br>
@@ -54,11 +54,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/shahdbatta/data-analysis">
+  <a href="https://shahdbatta.github.io/landingBage_sh/">
     <img src="https://img.shields.io/badge/-📊%20Data%20Analysis%20Project-28A745?style=for-the-badge" />
   </a>
   <br>
-  <i>Exploring datasets using Python & Pandas</i>
+  <i>landing bage for sharing food managment system</i>
 </p>
 
 ---
