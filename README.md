@@ -2,10 +2,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/shahd-batta-324a7b34a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>&nbsp;
-<a href="mailto:shahdbatta2005@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" 
-       alt="gmail" height="30" width="30"/>
-</a>
 <a href="https://github.com/shahdbatta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="30" /></a>
 </p>
 
