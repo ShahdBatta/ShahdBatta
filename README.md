@@ -38,11 +38,11 @@
 ### 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/shahdbatta/portfolio">
+  <a href="https://github.com/ShahdBatta/portfolio-_sh">
     <img src="https://img.shields.io/badge/-🌐%20Portfolio%20Website-0A66C2?style=for-the-badge" />
   </a>
   <br>
-  <i>My personal portfolio built with HTML, CSS, and JS</i>
+  <i>My personal portfolio built with HTML, CSS, and scss</i>
 </p>
 
 <p align="center">
